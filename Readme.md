@@ -21,15 +21,22 @@ Utilização de lista para armazenar os níveis;
 Validação de nível inválido;
 Restauração das configurações padrão do terminal.
 
-[Níveis Monitorados](https://img.shields.io/badge/%F0%9F%93%8A%20N%C3%ADveis%20Monitorados-white)
+
+![Static Badge](https://img.shields.io/badge/%F0%9F%93%8A%20N%C3%ADveis%20Monitorados-grey)
 
 Nível	Situação
+
 1	Muito baixo (Crítico)
+
 2	Baixo
+
 3	Médio
+
 4	Alto
+
 5	Muito alto (Alerta)
 
-[Como Executar](https://img.shields.io/badge/%F0%9F%93%8C-Como%20Executar-grey)
+![Static Badge](https://img.shields.io/badge/Como%20executar-green)
+
 
 O sistema vai solicitar o nível da água ou do reservatório é só digitar um numero de 1 a 5 para visualizar a situação correspondente.
